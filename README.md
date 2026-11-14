@@ -1,10 +1,5 @@
 # INVIZ — Virtual Camera Motion Controller for Blender
 
-![Blender](https://shields.io)
-![License](https://shields.io)
-![Platform](https://shields.io)
-![Dependencies](https://shields.io)
-
 **INVIZ** turns any smartphone into a wireless, real-time virtual production camera rig for Blender—with **zero mobile apps to install**. 
 
 Walk around your room to aim Blender's camera using your phone's gyroscope, fly through your scene with on-screen virtual joysticks, monitor Blender's live camera viewport directly on your phone screen, and bake smooth motion keyframes straight onto your timeline.
